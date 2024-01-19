@@ -26,8 +26,10 @@ SECRET_KEY = 'django-insecure-g^f&nv(z36cgc(8+g3k#i8r4ldy$d5rpukg+gri=b*z-e43n+(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.artemk.pythonanywhere.com',
-    'artemk.pythonanywhere.com',]
+ALLOWED_HOSTS = [
+    'www.artemk.pythonanywhere.com',
+    'artemk.pythonanywhere.com',
+]
 
 
 # Application definition
